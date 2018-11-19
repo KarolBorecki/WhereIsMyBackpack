@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - bullet
+  - floor
+  - Enemy
+  - Coin
+  - AUDIO
+  - LevelManager
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3694195397
+    locked: 0
+  - name: Enviroment
+    uniqueID: 1125058111
+    locked: 0
+  - name: Ground
+    uniqueID: 2060088075
+    locked: 0
+  - name: Coin
+    uniqueID: 3737161961
+    locked: 0
+  - name: Enemy
+    uniqueID: 2281630035
+    locked: 0
+  - name: Bullet
+    uniqueID: 1609795677
+    locked: 0
+  - name: Player
+    uniqueID: 2810259697
+    locked: 0
+  - name: FINAL
+    uniqueID: 1194871253
+    locked: 0
